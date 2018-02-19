@@ -1,0 +1,7 @@
+C:\Users\Víctor\Desktop\VisionCognitiveService\EmotionAPI\EmotionAPI\bin\Debug\EmotionAPI.exe.config
+C:\Users\Víctor\Desktop\VisionCognitiveService\EmotionAPI\EmotionAPI\bin\Debug\EmotionAPI.exe
+C:\Users\Víctor\Desktop\VisionCognitiveService\EmotionAPI\EmotionAPI\bin\Debug\EmotionAPI.pdb
+C:\Users\Víctor\Desktop\VisionCognitiveService\EmotionAPI\EmotionAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Víctor\Desktop\VisionCognitiveService\EmotionAPI\EmotionAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Víctor\Desktop\VisionCognitiveService\EmotionAPI\EmotionAPI\obj\Debug\EmotionAPI.exe
+C:\Users\Víctor\Desktop\VisionCognitiveService\EmotionAPI\EmotionAPI\obj\Debug\EmotionAPI.pdb

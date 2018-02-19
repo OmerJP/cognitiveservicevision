@@ -1,0 +1,5 @@
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVisionHandWritten\bin\Debug\ComputerVisionHandWritten.exe.config
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVisionHandWritten\bin\Debug\ComputerVisionHandWritten.exe
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVisionHandWritten\bin\Debug\ComputerVisionHandWritten.pdb
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVisionHandWritten\obj\Debug\ComputerVisionHandWritten.exe
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVisionHandWritten\obj\Debug\ComputerVisionHandWritten.pdb

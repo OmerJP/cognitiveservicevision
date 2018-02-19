@@ -1,0 +1,5 @@
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVisionCelebrities\bin\Debug\ComputerVisionCelebrities.exe.config
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVisionCelebrities\bin\Debug\ComputerVisionCelebrities.exe
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVisionCelebrities\bin\Debug\ComputerVisionCelebrities.pdb
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVisionCelebrities\obj\Debug\ComputerVisionCelebrities.exe
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVisionCelebrities\obj\Debug\ComputerVisionCelebrities.pdb

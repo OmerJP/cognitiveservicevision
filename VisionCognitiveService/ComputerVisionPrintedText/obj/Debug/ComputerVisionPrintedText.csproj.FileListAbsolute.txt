@@ -1,0 +1,5 @@
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVisionPrintedText\bin\Debug\ComputerVisionPrintedText.exe.config
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVisionPrintedText\bin\Debug\ComputerVisionPrintedText.exe
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVisionPrintedText\bin\Debug\ComputerVisionPrintedText.pdb
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVisionPrintedText\obj\Debug\ComputerVisionPrintedText.exe
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVisionPrintedText\obj\Debug\ComputerVisionPrintedText.pdb

@@ -1,0 +1,5 @@
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVision\bin\Debug\ComputerVision.exe.config
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVision\bin\Debug\ComputerVision.exe
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVision\bin\Debug\ComputerVision.pdb
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVision\obj\Debug\ComputerVision.exe
+C:\Users\Víctor\Desktop\VisionCognitiveService\ComputerVision\obj\Debug\ComputerVision.pdb

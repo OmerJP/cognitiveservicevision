@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Face", "VisionCognitiveService\Face.csproj", "{A0BC1F4B-339C-468D-B402-3439345B4AA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerVisionAnalyzeImage", "ComputerVision\ComputerVisionAnalyzeImage.csproj", "{BD35230F-B78B-4F58-85D6-CA193DCE3F62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoIndexer", "VideoIndexerAPI\VideoIndexer.csproj", "{7B3C81A4-447D-4D34-9EE4-4DCCFB9BE4D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerVisionPrintedText", "ComputerVisionPrintedText\ComputerVisionPrintedText.csproj", "{31E822D7-658B-493D-942A-9A8E32CA83A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerVisionHandWritten", "ComputerVisionHandWritten\ComputerVisionHandWritten.csproj", "{0404FE71-C0F6-4F67-A902-0683403F5126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerVisionCelebrities", "ComputerVisionCelebrities\ComputerVisionCelebrities.csproj", "{CE02FAE5-8F33-4579-84A6-B594DD39B34C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0BC1F4B-339C-468D-B402-3439345B4AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BC1F4B-339C-468D-B402-3439345B4AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BC1F4B-339C-468D-B402-3439345B4AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BC1F4B-339C-468D-B402-3439345B4AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD35230F-B78B-4F58-85D6-CA193DCE3F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD35230F-B78B-4F58-85D6-CA193DCE3F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD35230F-B78B-4F58-85D6-CA193DCE3F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD35230F-B78B-4F58-85D6-CA193DCE3F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3C81A4-447D-4D34-9EE4-4DCCFB9BE4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3C81A4-447D-4D34-9EE4-4DCCFB9BE4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3C81A4-447D-4D34-9EE4-4DCCFB9BE4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3C81A4-447D-4D34-9EE4-4DCCFB9BE4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E822D7-658B-493D-942A-9A8E32CA83A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E822D7-658B-493D-942A-9A8E32CA83A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E822D7-658B-493D-942A-9A8E32CA83A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E822D7-658B-493D-942A-9A8E32CA83A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0404FE71-C0F6-4F67-A902-0683403F5126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0404FE71-C0F6-4F67-A902-0683403F5126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0404FE71-C0F6-4F67-A902-0683403F5126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0404FE71-C0F6-4F67-A902-0683403F5126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE02FAE5-8F33-4579-84A6-B594DD39B34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE02FAE5-8F33-4579-84A6-B594DD39B34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE02FAE5-8F33-4579-84A6-B594DD39B34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE02FAE5-8F33-4579-84A6-B594DD39B34C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

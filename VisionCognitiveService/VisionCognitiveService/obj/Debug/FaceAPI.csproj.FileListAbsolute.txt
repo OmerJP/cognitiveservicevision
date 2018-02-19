@@ -1,0 +1,15 @@
+C:\Users\Víctor\Desktop\VisionCognitiveService\VisionCognitiveService\bin\Debug\VisionCognitiveService.exe.config
+C:\Users\Víctor\Desktop\VisionCognitiveService\VisionCognitiveService\bin\Debug\VisionCognitiveService.exe
+C:\Users\Víctor\Desktop\VisionCognitiveService\VisionCognitiveService\bin\Debug\VisionCognitiveService.pdb
+C:\Users\Víctor\Desktop\VisionCognitiveService\VisionCognitiveService\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\Víctor\Desktop\VisionCognitiveService\VisionCognitiveService\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\Víctor\Desktop\VisionCognitiveService\VisionCognitiveService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Víctor\Desktop\VisionCognitiveService\VisionCognitiveService\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Víctor\Desktop\VisionCognitiveService\VisionCognitiveService\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Víctor\Desktop\VisionCognitiveService\VisionCognitiveService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Víctor\Desktop\VisionCognitiveService\VisionCognitiveService\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Víctor\Desktop\VisionCognitiveService\VisionCognitiveService\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Víctor\Desktop\VisionCognitiveService\VisionCognitiveService\obj\Debug\FaceAPI.csproj.App.config
+C:\Users\Víctor\Desktop\VisionCognitiveService\VisionCognitiveService\obj\Debug\FaceAPI.csprojResolveAssemblyReference.cache
+C:\Users\Víctor\Desktop\VisionCognitiveService\VisionCognitiveService\obj\Debug\VisionCognitiveService.exe
+C:\Users\Víctor\Desktop\VisionCognitiveService\VisionCognitiveService\obj\Debug\VisionCognitiveService.pdb

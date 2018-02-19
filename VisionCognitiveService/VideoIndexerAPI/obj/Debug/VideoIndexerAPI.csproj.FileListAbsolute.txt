@@ -1,0 +1,8 @@
+C:\Users\Víctor\Desktop\VisionCognitiveService\VideoIndexerAPI\bin\Debug\VideoIndexerAPI.exe.config
+C:\Users\Víctor\Desktop\VisionCognitiveService\VideoIndexerAPI\bin\Debug\VideoIndexerAPI.exe
+C:\Users\Víctor\Desktop\VisionCognitiveService\VideoIndexerAPI\bin\Debug\VideoIndexerAPI.pdb
+C:\Users\Víctor\Desktop\VisionCognitiveService\VideoIndexerAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Víctor\Desktop\VisionCognitiveService\VideoIndexerAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Víctor\Desktop\VisionCognitiveService\VideoIndexerAPI\obj\Debug\VideoIndexerAPI.exe
+C:\Users\Víctor\Desktop\VisionCognitiveService\VideoIndexerAPI\obj\Debug\VideoIndexerAPI.pdb
+C:\Users\Víctor\Desktop\VisionCognitiveService\VideoIndexerAPI\obj\Debug\VideoIndexerAPI.csprojResolveAssemblyReference.cache
